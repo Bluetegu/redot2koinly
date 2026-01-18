@@ -1,0 +1,6 @@
+pillow
+easyocr
+pandas
+python-dateutil
+click
+tqdm

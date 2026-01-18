@@ -1,0 +1,23 @@
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+dist/
+build/
+*.egg-info/
+redotpay.csv
+
+# Data folder contents (except .gitkeep)
+data/*
+!data/.gitkeep
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
